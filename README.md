@@ -30,7 +30,7 @@ gestionPedidos/
 1. Clona el repositorio:
 ```sh
 git clone https://github.com/luis-eduardo-caicedo/SistemaGestionDePedidos.git
-cd gestionPedidos
+cd SistemaGestionDePedidos
 ```
 
 2. Crea un archivo `.env` en la raíz del proyecto con las siguientes variables de entorno:
